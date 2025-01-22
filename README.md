@@ -4,7 +4,7 @@ This project is a comprehensive analysis of Amazon sales data aimed at uncoverin
 
 Features of the Project.
 
-1.Total Sales Overview
+1.Total Sales Overview.
 Aggregated total sales data, helping to measure overall performance and revenue generation.
 
 2.Sales Trends Over Time.
@@ -34,13 +34,12 @@ Granular view of sales performance in individual cities, aiding location-specifi
 A consolidated sheet combining order-level details like order ID, date, fulfillment, amount, and shipping details.
 Valuable for further analysis and reporting.
 
-#My Contributions to the Project
-Data Cleaning & Preprocessing
-
+My Contributions to the Project:
+1.Data Cleaning & Preprocessing.
 Removed inconsistencies, missing values, and redundant data.
 Standardized formats to ensure a clean dataset for analysis.
-Exploratory Data Analysis (EDA)
 
+2.Exploratory Data Analysis (EDA).
 Conducted an in-depth analysis of key metrics like sales volume, order status, and category performance.
 Discovered meaningful patterns and trends from raw data.
 Visualization Creation
