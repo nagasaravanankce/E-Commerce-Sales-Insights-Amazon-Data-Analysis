@@ -4,24 +4,32 @@ This project is a comprehensive analysis of Amazon sales data aimed at uncoverin
 
 Features of the Project
 1.Total Sales Overview
---Aggregated total sales data, helping to measure overall performance and revenue generation.
---Sales Trends Over Time
+Aggregated total sales data, helping to measure overall performance and revenue generation.
+
+2.Sales Trends Over Time
 
 Detailed trend analysis showing how sales fluctuated over time.
+
 Useful for identifying seasonality, peak periods, and slow sales intervals.
-Category Distribution
+
+3.Category Distribution
 
 Breakdown of sales across different product categories (e.g., T-shirts, shirts, trousers).
+
 Highlights which product categories are most profitable or in demand.
-Fulfillment Analysis
+
+4.Fulfillment Analysis
 
 Examines fulfillment methods (e.g., Amazon Fulfilled, Merchant Fulfilled).
 Helps evaluate the efficiency of delivery models and their correlation with customer satisfaction.
-Order Status Analysis
+
+5.Order Status Analysis
 
 Visualizations of order statuses such as canceled, shipped, and pending.
+
 Provides a snapshot of logistical challenges and customer order flows.
-Customer Segmentation by City
+
+6.Customer Segmentation by City
 
 A deep dive into customer distribution across various cities.
 Helps identify potential markets and high-performing regions.
